@@ -8,8 +8,8 @@
     <description>
         Just Meals Order Taking App
     </description>
-    <author email="basti@codemywebapps.com" href="http://cordova.io">
-        codemywebapps.com
+    <author email="info@justmeals.co.uk" href="http://cordova.io">
+        justmeals.co.uk
     </author>
     <icon src="icon.png" />           
     <content src="index.html" />
@@ -30,7 +30,7 @@
     <preference name="SplashScreenDelay" value="10000" />  
     
     <gap:plugin name="cordova-plugin-googlemaps"  source="npm"  spec="1.3.9">
-	   <param name="API_KEY_FOR_ANDROID" value="AIzaSyATp_CgHp7QAaWtU61clqGsdWRqL8Ld630" />
+	   <param name="API_KEY_FOR_ANDROID" value="AIzaSyBVVs8LB1b1KxbeQIMmp7kuPtOF4w5x-Sw" />
 	   <param name="API_KEY_FOR_IOS" value="XXX" />
 	</gap:plugin>	
 	
